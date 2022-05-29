@@ -2,6 +2,7 @@
  import React from 'react';
  import '../App.css';
 import { type } from '@testing-library/user-event/dist/type';
+ 
 
 function Card(d:any) {
    console.log("sagar0",d.d)
